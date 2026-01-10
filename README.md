@@ -69,8 +69,9 @@ All assets and logic are custom-built and not affiliated with the original game.
 👤 Author
 
 Ayush Singh
-	•	LinkedIn: https://www.linkedin.com/in/ayush-singh-52938a28b/
-	•	GitHub: https://github.com/ayush0221
+	
+LinkedIn: https://www.linkedin.com/in/ayush-singh-52938a28b/
+GitHub: https://github.com/ayush0221
 
 ⸻
 
