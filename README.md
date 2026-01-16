@@ -1,8 +1,8 @@
-# _Sky-Hop_
+# _BreezyBird_
 SkyHop is a lightweight, browser-based game inspired by the classic Flappy Bird.
 It focuses on clean UI, smooth gameplay, and responsive design while recreating a tap-to-fly, obstacle-avoidance experience using modern web technologies.
 
-🔗 Live Demo: https://skyhopofficial.netlify.app/
+🔗 Live Demo: (https://breezybird.netlify.app/)
 
 ⸻
 
@@ -45,7 +45,7 @@ SkyHop was built to:
 📸 Preview
 
 Play the game live here:
-👉 https://skyhopofficial.netlify.app/
+👉 https://breezybird.netlify.app/
 
 📂 Project Structure
 
